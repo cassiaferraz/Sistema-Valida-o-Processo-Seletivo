@@ -1,6 +1,8 @@
 package Candidatura;
 import java.util.concurrent.ThreadLocalRandom;
 import java.util.Random;
+
+
 public class ProcessoSeletivo {
     public static void main(String[] args) {
         String [] candidatos = {"FELIPE ", "MARCIA ", "JULIA ", "PAULO ", "AUGUSTO " };
